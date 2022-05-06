@@ -1,0 +1,9 @@
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quotes {
+    width: 400px;
+}
